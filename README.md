@@ -1,0 +1,6 @@
+"# Week 2 Lab - Bash & Git" 
+"Declan Gillen" 
+"22213678"
+"https://github.com/DecGillen/week2"
+"---" 
+"To run the script.sh, run: \`bash script.sh\`" 
